@@ -1,0 +1,833 @@
+<?xml version='1.0' encoding='US-ASCII' standalone='yes'?>
+<PageTables vers='1.0.0.0'>
+	<PageTableLayouts>
+		<Plugin manID='Manu' prodID='Plug' plugID='jcaa'>
+			<Desc>Generated PageTable 2 by Avid Inc.</Desc>
+			<Layout>PageTable 1</Layout>
+		</Plugin><!--manID='Manu' prodID='Plug' plugID='jcaa'-->
+		<Plugin manID='Manu' prodID='Plug' plugID='jcab'>
+			<Desc>Generated PageTable 1 by Avid Inc.</Desc>
+			<Layout>PageTable 1</Layout>
+		</Plugin><!--manID='Manu' prodID='Plug' plugID='jcab'-->
+		<PTLayout name='PageTable 1'>
+			<PageTable type='Av81' pgsz='24'>
+				<Page num='1'>
+					<Cell row='1' col='1' knobID="ByPass" inOutButtonID="" selectButtonID=""/>
+					<Cell row='2' col='1' knobID="Output Gain" inOutButtonID="" selectButtonID=""/>
+					<Cell row='3' col='1' knobID="Signal Path" inOutButtonID="" selectButtonID=""/>
+					<Cell row='4' col='1' knobID="Parallel Balance" inOutButtonID="" selectButtonID=""/>
+					<Cell row='5' col='1' knobID="Denoise" inOutButtonID="Adapt" selectButtonID=""/>
+					<Cell row='6' col='1' knobID="Denoise Dual" inOutButtonID="" selectButtonID="Denoise Mode"/>
+					<Cell row='7' col='1' knobID="Dereverb" inOutButtonID="" selectButtonID=""/>
+					<Cell row='8' col='1' knobID="Dereverb Dual" inOutButtonID="" selectButtonID="Dereverb Mode"/>
+				</Page><!--num='1'-->
+				<Page num='2'>
+					<Cell row='1' col='1' knobID="Artifact Control" inOutButtonID="" selectButtonID=""/>
+					<Cell row='2' col='1' knobID="Art Control Norm" inOutButtonID="" selectButtonID=""/>
+					<Cell row='3' col='1' knobID="Art Control Imp" inOutButtonID="" selectButtonID=""/>
+					<Cell row='4' col='1' knobID="Process Intensity" inOutButtonID="" selectButtonID=""/>
+					<Cell row='5' col='1' knobID="RangeBand1" inOutButtonID="" selectButtonID=""/>
+					<Cell row='6' col='1' knobID="RangeBand2" inOutButtonID="" selectButtonID=""/>
+					<Cell row='7' col='1' knobID="RangeBand3" inOutButtonID="" selectButtonID=""/>
+					<Cell row='8' col='1' knobID="RangeBand4" inOutButtonID="" selectButtonID=""/>
+				</Page><!--num='2'-->
+				<Page num='3'>
+					<Cell row='1' col='1' knobID="RangeBand1" inOutButtonID="" selectButtonID=""/>
+					<Cell row='2' col='1' knobID="RangeBand2" inOutButtonID="" selectButtonID=""/>
+					<Cell row='3' col='1' knobID="RangeBand3" inOutButtonID="" selectButtonID=""/>
+					<Cell row='4' col='1' knobID="RangeBand4" inOutButtonID="" selectButtonID=""/>
+					<Cell row='5' col='1' knobID="IntensityBand1" inOutButtonID="" selectButtonID=""/>
+					<Cell row='6' col='1' knobID="IntensityBand2" inOutButtonID="" selectButtonID=""/>
+					<Cell row='7' col='1' knobID="IntensityBand3" inOutButtonID="" selectButtonID=""/>
+					<Cell row='8' col='1' knobID="IntensityBand4" inOutButtonID="" selectButtonID=""/>
+				</Page><!--num='3'-->
+				<Page num='4'>
+					<Cell row='1' col='1' knobID="SoloBand1" inOutButtonID="" selectButtonID=""/>
+					<Cell row='2' col='1' knobID="SoloBand2" inOutButtonID="" selectButtonID=""/>
+					<Cell row='3' col='1' knobID="SoloBand3" inOutButtonID="" selectButtonID=""/>
+					<Cell row='4' col='1' knobID="SoloBand4" inOutButtonID="" selectButtonID=""/>
+					<Cell row='5' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+					<Cell row='6' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+					<Cell row='7' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+					<Cell row='8' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+				</Page><!--num='4'-->
+				<Page num='5'>
+					<Cell row='1' col='1' knobID="Time Const Noise" inOutButtonID="" selectButtonID=""/>
+					<Cell row='2' col='1' knobID="Denoise Type" inOutButtonID="" selectButtonID=""/>
+					<Cell row='3' col='1' knobID="Time Const Proc" inOutButtonID="" selectButtonID=""/>
+					<Cell row='4' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+					<Cell row='5' col='1' knobID="Time Const RevHF" inOutButtonID="" selectButtonID=""/>
+					<Cell row='6' col='1' knobID="Time Const RevLF" inOutButtonID="" selectButtonID=""/>
+					<Cell row='7' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+					<Cell row='8' col='1' knobID="" inOutButtonID="" selectButtonID=""/>
+				</Page><!--num='5'-->
+			</PageTable><!--type='Av81' pgsz='24'-->
+			<PageTable type='FrTL' pgsz='24'>
+				<Page num='1'>
+					<ID>ByPass</ID>
+					<ID>Output Gain</ID>
+					<ID>Signal Path</ID>
+					<ID>Parallel Balance</ID>
+					<ID>Denoise</ID>
+					<ID>Denoise Dual</ID>
+					<ID>Adapt</ID>
+					<ID>Denoise Mode</ID>
+					<ID>Dereverb</ID>
+					<ID>Dereverb Dual</ID>
+					<ID>Dereverb Mode</ID>
+					<ID>Artifact Control</ID>
+					<ID>Art Control Norm</ID>
+					<ID>Art Control Imp</ID>
+					<ID>Process Intensity</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='1'-->
+				<Page num='2'>
+					<ID>RangeBand1</ID>
+					<ID>RangeBand2</ID>
+					<ID>RangeBand3</ID>
+					<ID>RangeBand4</ID>
+					<ID>IntensityBand1</ID>
+					<ID>IntensityBand2</ID>
+					<ID>IntensityBand3</ID>
+					<ID>IntensityBand4</ID>
+					<ID>SoloBand1</ID>
+					<ID>SoloBand2</ID>
+					<ID>SoloBand3</ID>
+					<ID>SoloBand4</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='2'-->
+				<Page num='3'>
+					<ID>Time Const Noise</ID>
+					<ID>Time Const Proc</ID>
+					<ID>Denoise Type</ID>
+					<ID>Time Const RevHF</ID>
+					<ID>Time Const RevLF</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='3'-->
+			</PageTable><!--type='FrTL' pgsz='24'-->
+			<PageTable type='HgTL' pgsz='8'>
+				<Page num='1'>
+					<ID>ByPass</ID>
+					<ID>Output Gain</ID>
+					<ID>Signal Path</ID>
+					<ID>Parallel Balance</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='1'-->
+				<Page num='2'>
+					<ID>Denoise</ID>
+					<ID>Denoise Dual</ID>
+					<ID>Adapt</ID>
+					<ID>Denoise Mode</ID>
+					<ID>Dereverb</ID>
+					<ID>Dereverb Dual</ID>
+					<ID>Dereverb Mode</ID>
+					<ID> </ID>
+				</Page><!--num='2'-->
+				<Page num='3'>
+					<ID>Artifact Control</ID>
+					<ID>Art Control Norm</ID>
+					<ID>Art Control Imp</ID>
+					<ID>Process Intensity</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='3'-->
+				<Page num='4'>
+					<ID>RangeBand1</ID>
+					<ID>RangeBand2</ID>
+					<ID>RangeBand3</ID>
+					<ID>RangeBand4</ID>
+					<ID>IntensityBand1</ID>
+					<ID>IntensityBand2</ID>
+					<ID>IntensityBand3</ID>
+					<ID>IntensityBand4</ID>
+				</Page><!--num='4'-->
+				<Page num='5'>
+					<ID>SoloBand1</ID>
+					<ID>SoloBand2</ID>
+					<ID>SoloBand3</ID>
+					<ID>SoloBand4</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='5'-->
+				<Page num='6'>
+					<ID>Time Const Noise</ID>
+					<ID>Time Const Proc</ID>
+					<ID>Denoise Type</ID>
+					<ID>Time Const RevHF</ID>
+					<ID>Time Const RevLF</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='6'-->
+			</PageTable><!--type='HgTL' pgsz='8'-->
+			<PageTable type='PcTL' pgsz='16'>
+				<Page num='1'>
+					<ID>Output Gain</ID>
+					<ID>ByPass</ID>
+					<ID>Signal Path</ID>
+					<ID>Parallel Balance</ID>
+					<ID>Denoise</ID>
+					<ID>Denoise Dual</ID>
+					<ID>Dereverb</ID>
+					<ID>Dereverb Dual</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID>Adapt</ID>
+					<ID>Denoise Mode</ID>
+					<ID>Dereverb Mode</ID>
+					<ID> </ID>
+				</Page><!--num='1'-->
+				<Page num='2'>
+					<ID>Artifact Control</ID>
+					<ID>Art Control Norm</ID>
+					<ID>Art Control Imp</ID>
+					<ID>Process Intensity</ID>
+					<ID>RangeBand1</ID>
+					<ID>RangeBand2</ID>
+					<ID>RangeBand3</ID>
+					<ID>RangeBand4</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='2'-->
+				<Page num='3'>
+					<ID>IntensityBand1</ID>
+					<ID>IntensityBand2</ID>
+					<ID>IntensityBand3</ID>
+					<ID>IntensityBand4</ID>
+					<ID>SoloBand1</ID>
+					<ID>SoloBand2</ID>
+					<ID>SoloBand3</ID>
+					<ID>SoloBand4</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='3'-->
+				<Page num='4'>
+					<ID>Time Const Noise</ID>
+					<ID>Denoise Type</ID>
+					<ID>Time Const Proc</ID>
+					<ID> </ID>
+					<ID>Time Const RevHF</ID>
+					<ID>Time Const RevLF</ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+					<ID> </ID>
+				</Page><!--num='4'-->
+			</PageTable><!--type='PcTL' pgsz='16'-->
+			<PageTable type='PgTL' pgsz='1'>
+				<Page num='1'>
+					<ID>Master Bypass</ID>
+				</Page><!--num='1'-->
+				<Page num='2'>
+					<ID>Signal Path</ID>
+				</Page><!--num='2'-->
+				<Page num='3'>
+					<ID>Parallel Balance</ID>
+				</Page><!--num='3'-->
+				<Page num='4'>
+					<ID>Denoise Mode</ID>
+				</Page><!--num='4'-->
+				<Page num='5'>
+					<ID>Denoise</ID>
+				</Page><!--num='5'-->
+				<Page num='6'>
+					<ID>Denoise Dual</ID>
+				</Page><!--num='6'-->
+				<Page num='7'>
+					<ID>Time Const Noise</ID>
+				</Page><!--num='7'-->
+				<Page num='8'>
+					<ID>Time Const Proc</ID>
+				</Page><!--num='8'-->
+				<Page num='9'>
+					<ID>Denoise Type</ID>
+				</Page><!--num='9'-->
+				<Page num='10'>
+					<ID>Dereverb Mode</ID>
+				</Page><!--num='10'-->
+				<Page num='11'>
+					<ID>Dereverb</ID>
+				</Page><!--num='11'-->
+				<Page num='12'>
+					<ID>Time Const RevLF</ID>
+				</Page><!--num='12'-->
+				<Page num='13'>
+					<ID>Time Const RevHF</ID>
+				</Page><!--num='13'-->
+				<Page num='14'>
+					<ID>Dereverb Dual</ID>
+				</Page><!--num='14'-->
+				<Page num='15'>
+					<ID>Artifact Control</ID>
+				</Page><!--num='15'-->
+				<Page num='16'>
+					<ID>Art Control Norm</ID>
+				</Page><!--num='16'-->
+				<Page num='17'>
+					<ID>Art Control Imp</ID>
+				</Page><!--num='17'-->
+				<Page num='18'>
+					<ID>Process Intensity</ID>
+				</Page><!--num='18'-->
+				<Page num='19'>
+					<ID>IntensityBand1</ID>
+				</Page><!--num='19'-->
+				<Page num='20'>
+					<ID>IntensityBand2</ID>
+				</Page><!--num='20'-->
+				<Page num='21'>
+					<ID>IntensityBand3</ID>
+				</Page><!--num='21'-->
+				<Page num='22'>
+					<ID>IntensityBand4</ID>
+				</Page><!--num='22'-->
+				<Page num='23'>
+					<ID>RangeBand1</ID>
+				</Page><!--num='23'-->
+				<Page num='24'>
+					<ID>RangeBand2</ID>
+				</Page><!--num='24'-->
+				<Page num='25'>
+					<ID>RangeBand3</ID>
+				</Page><!--num='25'-->
+				<Page num='26'>
+					<ID>RangeBand4</ID>
+				</Page><!--num='26'-->
+				<Page num='27'>
+					<ID>SoloBand1</ID>
+				</Page><!--num='27'-->
+				<Page num='28'>
+					<ID>SoloBand2</ID>
+				</Page><!--num='28'-->
+				<Page num='29'>
+					<ID>SoloBand3</ID>
+				</Page><!--num='29'-->
+				<Page num='30'>
+					<ID>SoloBand4</ID>
+				</Page><!--num='30'-->
+				<Page num='31'>
+					<ID>Adapt</ID>
+				</Page><!--num='31'-->
+				<Page num='32'>
+					<ID>ByPass</ID>
+				</Page><!--num='32'-->
+				<Page num='33'>
+					<ID>Output Gain</ID>
+				</Page><!--num='33'-->
+			</PageTable><!--type='PgTL' pgsz='1'-->
+		</PTLayout><!--name='PageTable 1'-->
+	</PageTableLayouts>
+	<ControlNamesVariations>
+		<Ctrl ID='Adapt'>
+			<name typ='PgTL' sz='1'>A</name>
+			<name typ='PgTL' sz='2'>Ad</name>
+			<name typ='PgTL' sz='3'>Ada</name>
+			<name typ='PgTL' sz='4'>Adpt</name>
+		</Ctrl><!--ID='Adapt'-->
+		<Ctrl ID='Art Control Imp'>
+			<name typ='PgTL' sz='1'>A</name>
+			<name typ='PgTL' sz='2'>Ar</name>
+			<name typ='PgTL' sz='3'>Art</name>
+			<name typ='PgTL' sz='4'>ArCI</name>
+			<name typ='PgTL' sz='5'>Art C</name>
+			<name typ='PgTL' sz='6'>ArCImp</name>
+			<name typ='PgTL' sz='7'>Art Con</name>
+			<name typ='PgTL' sz='8'>ArCImp  </name>
+			<name typ='PgTL' sz='9'>Art Contr</name>
+			<name typ='PgTL' sz='10'>Art Contro</name>
+			<name typ='PgTL' sz='11'>Art Control</name>
+			<name typ='PgTL' sz='12'>Art Control </name>
+			<name typ='PgTL' sz='13'>Art Control I</name>
+			<name typ='PgTL' sz='14'>Art Control Im</name>
+		</Ctrl><!--ID='Art Control Imp'-->
+		<Ctrl ID='Art Control Norm'>
+			<name typ='PgTL' sz='1'>A</name>
+			<name typ='PgTL' sz='2'>Ar</name>
+			<name typ='PgTL' sz='3'>Art</name>
+			<name typ='PgTL' sz='4'>ArCN</name>
+			<name typ='PgTL' sz='5'>Art C</name>
+			<name typ='PgTL' sz='6'>ArCNrm</name>
+			<name typ='PgTL' sz='7'>Art Con</name>
+			<name typ='PgTL' sz='8'>ArCNorm </name>
+			<name typ='PgTL' sz='9'>Art Contr</name>
+			<name typ='PgTL' sz='10'>Art Contro</name>
+			<name typ='PgTL' sz='11'>Art Control</name>
+			<name typ='PgTL' sz='12'>Art Control </name>
+			<name typ='PgTL' sz='13'>Art Control N</name>
+			<name typ='PgTL' sz='14'>Art Control No</name>
+			<name typ='PgTL' sz='15'>Art Control Nor</name>
+		</Ctrl><!--ID='Art Control Norm'-->
+		<Ctrl ID='Artifact Control'>
+			<name typ='PgTL' sz='1'>A</name>
+			<name typ='PgTL' sz='2'>Ar</name>
+			<name typ='PgTL' sz='3'>Art</name>
+			<name typ='PgTL' sz='4'>ArC </name>
+			<name typ='PgTL' sz='5'>Artif</name>
+			<name typ='PgTL' sz='6'>ArCtlr</name>
+			<name typ='PgTL' sz='7'>Artifac</name>
+			<name typ='PgTL' sz='8'>ArtfCtrl</name>
+			<name typ='PgTL' sz='9'>Artifact </name>
+			<name typ='PgTL' sz='10'>Artifact C</name>
+			<name typ='PgTL' sz='11'>Artifact Co</name>
+			<name typ='PgTL' sz='12'>Artifact Con</name>
+			<name typ='PgTL' sz='13'>Artifact Cont</name>
+			<name typ='PgTL' sz='14'>Artifact Contr</name>
+			<name typ='PgTL' sz='15'>Artifact Contro</name>
+		</Ctrl><!--ID='Artifact Control'-->
+		<Ctrl ID='ByPass'>
+			<name typ='PgTL' sz='1'>B</name>
+			<name typ='PgTL' sz='2'>By</name>
+			<name typ='PgTL' sz='3'>ByP</name>
+			<name typ='PgTL' sz='4'>ByPa</name>
+			<name typ='PgTL' sz='5'>ByPas</name>
+		</Ctrl><!--ID='ByPass'-->
+		<Ctrl ID='Denoise'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Den</name>
+			<name typ='PgTL' sz='4'>DN  </name>
+			<name typ='PgTL' sz='5'>Denoi</name>
+			<name typ='PgTL' sz='6'>DNoise</name>
+		</Ctrl><!--ID='Denoise'-->
+		<Ctrl ID='Denoise Dual'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Den</name>
+			<name typ='PgTL' sz='4'>DnDl</name>
+			<name typ='PgTL' sz='5'>Denoi</name>
+			<name typ='PgTL' sz='6'>DNDual</name>
+			<name typ='PgTL' sz='7'>Denoise</name>
+			<name typ='PgTL' sz='8'>DN Dual </name>
+			<name typ='PgTL' sz='9'>Denoise D</name>
+			<name typ='PgTL' sz='10'>Denoise Du</name>
+			<name typ='PgTL' sz='11'>Denoise Dua</name>
+		</Ctrl><!--ID='Denoise Dual'-->
+		<Ctrl ID='Denoise Mode'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Den</name>
+			<name typ='PgTL' sz='4'>DnMd</name>
+			<name typ='PgTL' sz='5'>Denoi</name>
+			<name typ='PgTL' sz='6'>DNMode</name>
+			<name typ='PgTL' sz='7'>Denoise</name>
+			<name typ='PgTL' sz='8'>DN Mode </name>
+			<name typ='PgTL' sz='9'>Denoise M</name>
+			<name typ='PgTL' sz='10'>Denoise Mo</name>
+			<name typ='PgTL' sz='11'>Denoise Mod</name>
+		</Ctrl><!--ID='Denoise Mode'-->
+		<Ctrl ID='Denoise Type'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Den</name>
+			<name typ='PgTL' sz='4'>DnTp</name>
+			<name typ='PgTL' sz='5'>Denoi</name>
+			<name typ='PgTL' sz='6'>DNType</name>
+			<name typ='PgTL' sz='7'>Denoise</name>
+			<name typ='PgTL' sz='8'>DN Type </name>
+			<name typ='PgTL' sz='9'>Denoise T</name>
+			<name typ='PgTL' sz='10'>Denoise Ty</name>
+			<name typ='PgTL' sz='11'>Denoise Typ</name>
+		</Ctrl><!--ID='Denoise Type'-->
+		<Ctrl ID='Dereverb'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Der</name>
+			<name typ='PgTL' sz='4'>DR  </name>
+			<name typ='PgTL' sz='5'>Derev</name>
+			<name typ='PgTL' sz='6'>Derev </name>
+			<name typ='PgTL' sz='7'>Derever</name>
+		</Ctrl><!--ID='Dereverb'-->
+		<Ctrl ID='Dereverb Dual'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Der</name>
+			<name typ='PgTL' sz='4'>DrDl</name>
+			<name typ='PgTL' sz='5'>Derev</name>
+			<name typ='PgTL' sz='6'>DRDual</name>
+			<name typ='PgTL' sz='7'>Derever</name>
+			<name typ='PgTL' sz='8'>DR Dual </name>
+			<name typ='PgTL' sz='9'>Dereverb </name>
+			<name typ='PgTL' sz='10'>Dereverb D</name>
+			<name typ='PgTL' sz='11'>Dereverb Du</name>
+			<name typ='PgTL' sz='12'>Dereverb Dua</name>
+		</Ctrl><!--ID='Dereverb Dual'-->
+		<Ctrl ID='Dereverb Mode'>
+			<name typ='PgTL' sz='1'>D</name>
+			<name typ='PgTL' sz='2'>De</name>
+			<name typ='PgTL' sz='3'>Der</name>
+			<name typ='PgTL' sz='4'>DrMd</name>
+			<name typ='PgTL' sz='5'>Derev</name>
+			<name typ='PgTL' sz='6'>DRMode</name>
+			<name typ='PgTL' sz='7'>Derever</name>
+			<name typ='PgTL' sz='8'>DR Mode </name>
+			<name typ='PgTL' sz='9'>Dereverb </name>
+			<name typ='PgTL' sz='10'>Dereverb M</name>
+			<name typ='PgTL' sz='11'>Dereverb Mo</name>
+			<name typ='PgTL' sz='12'>Dereverb Mod</name>
+		</Ctrl><!--ID='Dereverb Mode'-->
+		<Ctrl ID='IntensityBand1'>
+			<name typ='PgTL' sz='1'>I</name>
+			<name typ='PgTL' sz='2'>In</name>
+			<name typ='PgTL' sz='3'>Int</name>
+			<name typ='PgTL' sz='4'>Int1</name>
+			<name typ='PgTL' sz='5'>Inten</name>
+			<name typ='PgTL' sz='6'>Inten1</name>
+			<name typ='PgTL' sz='7'>Intensi</name>
+			<name typ='PgTL' sz='8'>Intens 1</name>
+			<name typ='PgTL' sz='9'>Intensity</name>
+			<name typ='PgTL' sz='10'>IntensityB</name>
+			<name typ='PgTL' sz='11'>IntensityBa</name>
+			<name typ='PgTL' sz='12'>IntensityBan</name>
+			<name typ='PgTL' sz='13'>IntensityBand</name>
+		</Ctrl><!--ID='IntensityBand1'-->
+		<Ctrl ID='IntensityBand2'>
+			<name typ='PgTL' sz='1'>I</name>
+			<name typ='PgTL' sz='2'>In</name>
+			<name typ='PgTL' sz='3'>Int</name>
+			<name typ='PgTL' sz='4'>Int2</name>
+			<name typ='PgTL' sz='5'>Inten</name>
+			<name typ='PgTL' sz='6'>Inten2</name>
+			<name typ='PgTL' sz='7'>Intensi</name>
+			<name typ='PgTL' sz='8'>Intens 2</name>
+			<name typ='PgTL' sz='9'>Intensity</name>
+			<name typ='PgTL' sz='10'>IntensityB</name>
+			<name typ='PgTL' sz='11'>IntensityBa</name>
+			<name typ='PgTL' sz='12'>IntensityBan</name>
+			<name typ='PgTL' sz='13'>IntensityBand</name>
+		</Ctrl><!--ID='IntensityBand2'-->
+		<Ctrl ID='IntensityBand3'>
+			<name typ='PgTL' sz='1'>I</name>
+			<name typ='PgTL' sz='2'>In</name>
+			<name typ='PgTL' sz='3'>Int</name>
+			<name typ='PgTL' sz='4'>Int3</name>
+			<name typ='PgTL' sz='5'>Inten</name>
+			<name typ='PgTL' sz='6'>Inten3</name>
+			<name typ='PgTL' sz='7'>Intensi</name>
+			<name typ='PgTL' sz='8'>Intens 3</name>
+			<name typ='PgTL' sz='9'>Intensity</name>
+			<name typ='PgTL' sz='10'>IntensityB</name>
+			<name typ='PgTL' sz='11'>IntensityBa</name>
+			<name typ='PgTL' sz='12'>IntensityBan</name>
+			<name typ='PgTL' sz='13'>IntensityBand</name>
+		</Ctrl><!--ID='IntensityBand3'-->
+		<Ctrl ID='IntensityBand4'>
+			<name typ='PgTL' sz='1'>I</name>
+			<name typ='PgTL' sz='2'>In</name>
+			<name typ='PgTL' sz='3'>Int</name>
+			<name typ='PgTL' sz='4'>Int4</name>
+			<name typ='PgTL' sz='5'>Inten</name>
+			<name typ='PgTL' sz='6'>Inten4</name>
+			<name typ='PgTL' sz='7'>Intensi</name>
+			<name typ='PgTL' sz='8'>Intens 4</name>
+			<name typ='PgTL' sz='9'>Intensity</name>
+			<name typ='PgTL' sz='10'>IntensityB</name>
+			<name typ='PgTL' sz='11'>IntensityBa</name>
+			<name typ='PgTL' sz='12'>IntensityBan</name>
+			<name typ='PgTL' sz='13'>IntensityBand</name>
+		</Ctrl><!--ID='IntensityBand4'-->
+		<Ctrl ID='Master Bypass'>
+			<name typ='PgTL' sz='4'>MByp</name>
+			<name typ='PgTL' sz='6'>MstByp</name>
+			<name typ='PgTL' sz='8'>Mast Byp</name>
+		</Ctrl><!--ID='Master Bypass'-->
+		<Ctrl ID='Output Gain'>
+			<name typ='PgTL' sz='1'>O</name>
+			<name typ='PgTL' sz='2'>Ou</name>
+			<name typ='PgTL' sz='3'>Out</name>
+			<name typ='PgTL' sz='4'>OutG</name>
+			<name typ='PgTL' sz='5'>Outpu</name>
+			<name typ='PgTL' sz='6'>OutGn </name>
+			<name typ='PgTL' sz='7'>Output </name>
+			<name typ='PgTL' sz='8'>Out Gain</name>
+			<name typ='PgTL' sz='9'>Output Ga</name>
+			<name typ='PgTL' sz='10'>Output Gai</name>
+		</Ctrl><!--ID='Output Gain'-->
+		<Ctrl ID='Parallel Balance'>
+			<name typ='PgTL' sz='1'>P</name>
+			<name typ='PgTL' sz='2'>Pa</name>
+			<name typ='PgTL' sz='3'>Par</name>
+			<name typ='PgTL' sz='4'>PrBl</name>
+			<name typ='PgTL' sz='5'>Paral</name>
+			<name typ='PgTL' sz='6'>ParalB</name>
+			<name typ='PgTL' sz='7'>Paralle</name>
+			<name typ='PgTL' sz='8'>Par Blnc</name>
+			<name typ='PgTL' sz='9'>Parallel </name>
+			<name typ='PgTL' sz='10'>Parallel B</name>
+			<name typ='PgTL' sz='11'>Parallel Ba</name>
+			<name typ='PgTL' sz='12'>Parallel Bal</name>
+			<name typ='PgTL' sz='13'>Parallel Bala</name>
+			<name typ='PgTL' sz='14'>Parallel Balan</name>
+			<name typ='PgTL' sz='15'>Parallel Balanc</name>
+		</Ctrl><!--ID='Parallel Balance'-->
+		<Ctrl ID='Process Intensity'>
+			<name typ='PgTL' sz='1'>P</name>
+			<name typ='PgTL' sz='2'>Pr</name>
+			<name typ='PgTL' sz='3'>Pro</name>
+			<name typ='PgTL' sz='4'>PrIn</name>
+			<name typ='PgTL' sz='5'>Proce</name>
+			<name typ='PgTL' sz='6'>PrcInt</name>
+			<name typ='PgTL' sz='7'>Process</name>
+			<name typ='PgTL' sz='8'>PrIntens</name>
+			<name typ='PgTL' sz='9'>Process I</name>
+			<name typ='PgTL' sz='10'>Process In</name>
+			<name typ='PgTL' sz='11'>Process Int</name>
+			<name typ='PgTL' sz='12'>Process Inte</name>
+			<name typ='PgTL' sz='13'>Process Inten</name>
+			<name typ='PgTL' sz='14'>Process Intens</name>
+			<name typ='PgTL' sz='15'>Process Intensi</name>
+			<name typ='PgTL' sz='16'>Process Intensit</name>
+		</Ctrl><!--ID='Process Intensity'-->
+		<Ctrl ID='RangeBand1'>
+			<name typ='PgTL' sz='1'>R</name>
+			<name typ='PgTL' sz='2'>Ra</name>
+			<name typ='PgTL' sz='3'>Ran</name>
+			<name typ='PgTL' sz='4'>Rng1</name>
+			<name typ='PgTL' sz='5'>Range</name>
+			<name typ='PgTL' sz='6'>Range1</name>
+			<name typ='PgTL' sz='7'>RangeBa</name>
+			<name typ='PgTL' sz='8'>RangeB 1</name>
+			<name typ='PgTL' sz='9'>RangeBand</name>
+		</Ctrl><!--ID='RangeBand1'-->
+		<Ctrl ID='RangeBand2'>
+			<name typ='PgTL' sz='1'>R</name>
+			<name typ='PgTL' sz='2'>Ra</name>
+			<name typ='PgTL' sz='3'>Ran</name>
+			<name typ='PgTL' sz='4'>Rng2</name>
+			<name typ='PgTL' sz='5'>Range</name>
+			<name typ='PgTL' sz='6'>Range2</name>
+			<name typ='PgTL' sz='7'>RangeBa</name>
+			<name typ='PgTL' sz='8'>RangeB 2</name>
+			<name typ='PgTL' sz='9'>RangeBand</name>
+		</Ctrl><!--ID='RangeBand2'-->
+		<Ctrl ID='RangeBand3'>
+			<name typ='PgTL' sz='1'>R</name>
+			<name typ='PgTL' sz='2'>Ra</name>
+			<name typ='PgTL' sz='3'>Ran</name>
+			<name typ='PgTL' sz='4'>Rng3</name>
+			<name typ='PgTL' sz='5'>Range</name>
+			<name typ='PgTL' sz='6'>Range3</name>
+			<name typ='PgTL' sz='7'>RangeBa</name>
+			<name typ='PgTL' sz='8'>RangeB 3</name>
+			<name typ='PgTL' sz='9'>RangeBand</name>
+		</Ctrl><!--ID='RangeBand3'-->
+		<Ctrl ID='RangeBand4'>
+			<name typ='PgTL' sz='1'>R</name>
+			<name typ='PgTL' sz='2'>Ra</name>
+			<name typ='PgTL' sz='3'>Ran</name>
+			<name typ='PgTL' sz='4'>Rng4</name>
+			<name typ='PgTL' sz='5'>Range</name>
+			<name typ='PgTL' sz='6'>Range4</name>
+			<name typ='PgTL' sz='7'>RangeBa</name>
+			<name typ='PgTL' sz='8'>RangeB 4</name>
+			<name typ='PgTL' sz='9'>RangeBand</name>
+		</Ctrl><!--ID='RangeBand4'-->
+		<Ctrl ID='Signal Path'>
+			<name typ='PgTL' sz='1'>S</name>
+			<name typ='PgTL' sz='2'>Si</name>
+			<name typ='PgTL' sz='3'>Sig</name>
+			<name typ='PgTL' sz='4'>SP  </name>
+			<name typ='PgTL' sz='5'>Signa</name>
+			<name typ='PgTL' sz='6'>SgnlPa</name>
+			<name typ='PgTL' sz='7'>Signal </name>
+			<name typ='PgTL' sz='8'>SignPath</name>
+			<name typ='PgTL' sz='9'>Signal Pa</name>
+			<name typ='PgTL' sz='10'>Signal Pat</name>
+		</Ctrl><!--ID='Signal Path'-->
+		<Ctrl ID='SoloBand1'>
+			<name typ='PgTL' sz='1'>S</name>
+			<name typ='PgTL' sz='2'>So</name>
+			<name typ='PgTL' sz='3'>Sol</name>
+			<name typ='PgTL' sz='4'>Sl1 </name>
+			<name typ='PgTL' sz='5'>SoloB</name>
+			<name typ='PgTL' sz='6'>Solo1 </name>
+			<name typ='PgTL' sz='7'>SoloBan</name>
+			<name typ='PgTL' sz='8'>SoloB 1 </name>
+		</Ctrl><!--ID='SoloBand1'-->
+		<Ctrl ID='SoloBand2'>
+			<name typ='PgTL' sz='1'>S</name>
+			<name typ='PgTL' sz='2'>So</name>
+			<name typ='PgTL' sz='3'>Sol</name>
+			<name typ='PgTL' sz='4'>Sl2 </name>
+			<name typ='PgTL' sz='5'>SoloB</name>
+			<name typ='PgTL' sz='6'>Solo2 </name>
+			<name typ='PgTL' sz='7'>SoloBan</name>
+			<name typ='PgTL' sz='8'>SoloB 2 </name>
+		</Ctrl><!--ID='SoloBand2'-->
+		<Ctrl ID='SoloBand3'>
+			<name typ='PgTL' sz='1'>S</name>
+			<name typ='PgTL' sz='2'>So</name>
+			<name typ='PgTL' sz='3'>Sol</name>
+			<name typ='PgTL' sz='4'>Sl3 </name>
+			<name typ='PgTL' sz='5'>SoloB</name>
+			<name typ='PgTL' sz='6'>Solo3 </name>
+			<name typ='PgTL' sz='7'>SoloBan</name>
+			<name typ='PgTL' sz='8'>SoloB 3 </name>
+		</Ctrl><!--ID='SoloBand3'-->
+		<Ctrl ID='SoloBand4'>
+			<name typ='PgTL' sz='1'>S</name>
+			<name typ='PgTL' sz='2'>So</name>
+			<name typ='PgTL' sz='3'>Sol</name>
+			<name typ='PgTL' sz='4'>Sl4 </name>
+			<name typ='PgTL' sz='5'>SoloB</name>
+			<name typ='PgTL' sz='6'>Solo4 </name>
+			<name typ='PgTL' sz='7'>SoloBan</name>
+			<name typ='PgTL' sz='8'>SoloB 4 </name>
+		</Ctrl><!--ID='SoloBand4'-->
+		<Ctrl ID='Time Const Noise'>
+			<name typ='PgTL' sz='1'>T</name>
+			<name typ='PgTL' sz='2'>Ti</name>
+			<name typ='PgTL' sz='3'>Tim</name>
+			<name typ='PgTL' sz='4'>TmNz</name>
+			<name typ='PgTL' sz='5'>Time </name>
+			<name typ='PgTL' sz='6'>TmNz  </name>
+			<name typ='PgTL' sz='7'>Time Co</name>
+			<name typ='PgTL' sz='8'>TmNoise </name>
+			<name typ='PgTL' sz='9'>Time Cons</name>
+			<name typ='PgTL' sz='10'>Time Const</name>
+			<name typ='PgTL' sz='11'>Time Const </name>
+			<name typ='PgTL' sz='12'>Time Const N</name>
+			<name typ='PgTL' sz='13'>Time Const No</name>
+			<name typ='PgTL' sz='14'>Time Const Noi</name>
+			<name typ='PgTL' sz='15'>Time Const Nois</name>
+		</Ctrl><!--ID='Time Const Noise'-->
+		<Ctrl ID='Time Const Proc'>
+			<name typ='PgTL' sz='1'>T</name>
+			<name typ='PgTL' sz='2'>Ti</name>
+			<name typ='PgTL' sz='3'>Tim</name>
+			<name typ='PgTL' sz='4'>TmRr</name>
+			<name typ='PgTL' sz='5'>Time </name>
+			<name typ='PgTL' sz='6'>TmProc</name>
+			<name typ='PgTL' sz='7'>Time Co</name>
+			<name typ='PgTL' sz='8'>TmProc  </name>
+			<name typ='PgTL' sz='9'>Time Cons</name>
+			<name typ='PgTL' sz='10'>Time Const</name>
+			<name typ='PgTL' sz='11'>Time Const </name>
+			<name typ='PgTL' sz='12'>Time Const P</name>
+			<name typ='PgTL' sz='13'>Time Const Pr</name>
+			<name typ='PgTL' sz='14'>Time Const Pro</name>
+		</Ctrl><!--ID='Time Const Proc'-->
+		<Ctrl ID='Time Const RevHF'>
+			<name typ='PgTL' sz='1'>T</name>
+			<name typ='PgTL' sz='2'>Ti</name>
+			<name typ='PgTL' sz='3'>Tim</name>
+			<name typ='PgTL' sz='4'>TmRH</name>
+			<name typ='PgTL' sz='5'>Time </name>
+			<name typ='PgTL' sz='6'>TmRvHF</name>
+			<name typ='PgTL' sz='7'>Time Co</name>
+			<name typ='PgTL' sz='8'>TmRevHF </name>
+			<name typ='PgTL' sz='9'>Time Cons</name>
+			<name typ='PgTL' sz='10'>Time Const</name>
+			<name typ='PgTL' sz='11'>Time Const </name>
+			<name typ='PgTL' sz='12'>Time Const R</name>
+			<name typ='PgTL' sz='13'>Time Const Re</name>
+			<name typ='PgTL' sz='14'>Time Const Rev</name>
+			<name typ='PgTL' sz='15'>Time Const RevH</name>
+		</Ctrl><!--ID='Time Const RevHF'-->
+		<Ctrl ID='Time Const RevLF'>
+			<name typ='PgTL' sz='1'>T</name>
+			<name typ='PgTL' sz='2'>Ti</name>
+			<name typ='PgTL' sz='3'>Tim</name>
+			<name typ='PgTL' sz='4'>TmRL</name>
+			<name typ='PgTL' sz='5'>Time </name>
+			<name typ='PgTL' sz='6'>TmRvLF</name>
+			<name typ='PgTL' sz='7'>Time Co</name>
+			<name typ='PgTL' sz='8'>TmRevLF </name>
+			<name typ='PgTL' sz='9'>Time Cons</name>
+			<name typ='PgTL' sz='10'>Time Const</name>
+			<name typ='PgTL' sz='11'>Time Const </name>
+			<name typ='PgTL' sz='12'>Time Const R</name>
+			<name typ='PgTL' sz='13'>Time Const Re</name>
+			<name typ='PgTL' sz='14'>Time Const Rev</name>
+			<name typ='PgTL' sz='15'>Time Const RevL</name>
+		</Ctrl><!--ID='Time Const RevLF'-->
+	</ControlNamesVariations>
+	<Editor vers='1.3.7.1'>
+		<PluginList>
+			<TDM>
+			</TDM>
+			<RTAS>
+				<PluginID manID='Manu' prodID='Plug' plugID='jcab'>
+					<MenuStr>AAX Native: accusonus ERA-D, Mono</MenuStr>
+				</PluginID><!--manID='Manu' prodID='Plug' plugID='jcab'-->
+				<PluginID manID='Manu' prodID='Plug' plugID='jcaa'>
+					<MenuStr>AAX Native: accusonus ERA-D, Stereo</MenuStr>
+				</PluginID><!--manID='Manu' prodID='Plug' plugID='jcaa'-->
+			</RTAS>
+		</PluginList>
+		<DiscCtrls>
+			<CtrlID>Adapt</CtrlID>
+			<CtrlID>ByPass</CtrlID>
+			<CtrlID>Denoise Mode</CtrlID>
+			<CtrlID>Dereverb Mode</CtrlID>
+			<CtrlID>Master Bypass</CtrlID>
+			<CtrlID>SoloBand1</CtrlID>
+			<CtrlID>SoloBand2</CtrlID>
+			<CtrlID>SoloBand3</CtrlID>
+			<CtrlID>SoloBand4</CtrlID>
+		</DiscCtrls>
+	</Editor><!--vers='1.3.7.1'-->
+</PageTables><!--vers='1.0.0.0'-->

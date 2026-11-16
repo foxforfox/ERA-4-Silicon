@@ -1,0 +1,34 @@
+build/
+dist/
+*.a
+*.o
+*.dylib
+
+# ERA 4.5 remakes — not part of this project
+plugins/DeEsser/
+plugins/DeEsserPro/
+plugins/PlosiveRemover/
+plugins/NoiseRemover/
+plugins/DeClipper/
+plugins/ReverbRemover/
+plugins/VoiceLeveler/
+plugins/ERA-D/
+shared/
+
+# Raw Ghidra decompiles (100-166 MB each) — too large for git.
+# The cleaned-up sources are in reverse/recompiled/.
+reverse/DeEsser/
+reverse/DeEsserPro/
+reverse/PlosiveRemover/
+reverse/NoiseRemover/
+reverse/DeClipper/
+reverse/ReverbRemover/
+reverse/VoiceLeveler/
+reverse/ERA-D/
+
+# Ghidra cache
+~/Library/Caches/era-ghidra/
+
+.DS_Store
+*.xcodeproj
+*.xcworkspace

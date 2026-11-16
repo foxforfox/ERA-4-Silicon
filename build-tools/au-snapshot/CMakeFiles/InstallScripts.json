@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/hayls/Flex/ERA-Plugins/build-tools/au-snapshot/cmake_install.cmake",
+		"/Users/hayls/Flex/ERA-Plugins/build-tools/au-snapshot/JUCE/cmake_install.cmake",
+		"/Users/hayls/Flex/ERA-Plugins/build-tools/au-snapshot/JUCE/modules/cmake_install.cmake",
+		"/Users/hayls/Flex/ERA-Plugins/build-tools/au-snapshot/JUCE/extras/Build/cmake_install.cmake",
+		"/Users/hayls/Flex/ERA-Plugins/build-tools/au-snapshot/JUCE/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

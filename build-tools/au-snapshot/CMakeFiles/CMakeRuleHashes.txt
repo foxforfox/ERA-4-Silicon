@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+1c7b661156d853e1d7cd75e8223bb47f au-snapshot_artefacts/JuceLibraryCode/au-snapshot/PkgInfo
